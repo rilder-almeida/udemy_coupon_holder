@@ -1,0 +1,53 @@
+{
+  "coupon_table": {
+    "1": {
+      "updated": "2021-07-24 22:28:03.083474",
+      "course_id": "3046128",
+      "coupon_url": "https://www.udemy.com/course/modern-javascript-es6-for-react-js/?couponCode=FREEJULY7",
+      "coupon_key": "FREEJULY7",
+      "is_valid": true
+    },
+    "2": {
+      "updated": "2021-07-24 22:28:33.738592",
+      "course_id": "1906606",
+      "coupon_url": "https://www.udemy.com/course/affiliate-marketing-supremacy-learn-affiliate-marketing/?couponCode=93E579E71911001BCD96",
+      "coupon_key": "93E579E71911001BCD96",
+      "is_valid": true
+    },
+    "3": {
+      "updated": "2021-07-24 22:29:07.084062",
+      "course_id": "2128762",
+      "coupon_url": "https://www.udemy.com/course/complete-python-bootcamp-expert-course/?couponCode=9107A723581D323340F3",
+      "coupon_key": "9107A723581D323340F3",
+      "is_valid": true
+    },
+    "4": {
+      "updated": "2021-07-24 22:29:44.135034",
+      "course_id": "3521496",
+      "coupon_url": "https://www.udemy.com/course/adobe-illustrator-from-zero-to-beyond/?couponCode=ILLUSTRATOR-2021-07",
+      "coupon_key": "ILLUSTRATOR-2021-07",
+      "is_valid": true
+    },
+    "5": {
+      "updated": "2021-07-24 22:30:17.602125",
+      "course_id": "3843276",
+      "coupon_url": "https://www.udemy.com/course/quickbooks-online-qbo-bookkeeping-with-bank-feeds-2021/?couponCode=A00883DAC8A2FCACA7A5",
+      "coupon_key": "A00883DAC8A2FCACA7A5",
+      "is_valid": true
+    },
+    "6": {
+      "updated": "2021-07-24 22:30:53.735751",
+      "course_id": "3339492",
+      "coupon_url": "https://www.udemy.com/course/html-css-certification-course-for-beginners-e/?couponCode=35074F93A29C201F6FAA",
+      "coupon_key": "35074F93A29C201F6FAA",
+      "is_valid": true
+    },
+    "7": {
+      "updated": "2021-07-24 22:31:29.260363",
+      "course_id": "3542398",
+      "coupon_url": "https://www.udemy.com/course/introduction-to-computer-science-with-python/?couponCode=FREE-UPSKILLING",
+      "coupon_key": "FREE-UPSKILLING",
+      "is_valid": true
+    }
+  }
+}
